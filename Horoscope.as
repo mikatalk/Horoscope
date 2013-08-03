@@ -11,6 +11,29 @@ package
 	* then later converted it to emacs lisp.
 	* Noah Friedman rewrote parts of the engine.
 	* Almost 10 years later, Mika I. ported it to AS3 :)
+	* 
+	* Samples output:
+	* Beware of a wallflower bearing a large dog. 
+	* Someone you fondled gently 5 or 11 times at Maria Shriver's wedding will give you pennies today. 
+	* Someone you know will splode today. Beware of two other people put together bearing a small bomb. 
+	* Today is not a good time for gossiping. God-fearing Crustaceans will piss on the bed this week. 
+	* You will be in conflict with Leo since Venus has moved into Pisces. 
+	* This week romance would be a good thing to ponder. You'll someday be sad. 
+	* Your lucky numbers are 20, 30, and 40. Put your dog on hold this week. 
+	* Play Sam and Max Hit the Road with the help of the man. Hours from now doing something may seem futile. 
+	* Your efforts at thinking turn out to be quite worthwhile. You'll often be gay. 
+	* Your lucky number today is 29842924728.  Look for it everywhere. 
+	* You might want to consider talking with piglets. 
+	* Stealing a tetrodotoxin should not be done while wearing a girdle. 
+	* Your piglet will piss on the bed soon. 
+	* You'll sometimes be unhappy. Don't forget, it's only 366 days at most until Christmas. 
+	* Many people will ask you for advice about becoming pregnant. 
+	* Fortune (good or bad) is in the air. You will discover that the wives are catching colds. 
+	* Your mom will eventually reveal itself to be the mailman. 
+	* Many people will ask you for advice about reading mail. 
+	* You will meet a warmonger this week. 
+	* Your chicken will be fluctuating in the next 4 or 9 years. 
+	* Your wonderful pet dog will be a sick friend. 
 	*/
     
 	import flash.display.Sprite;
@@ -674,13 +697,6 @@ package
 					["look at deeply"]
 				];
 			
-			
-			trace( generateHoroscope() );
-			trace( generateHoroscope() );
-			trace( generateHoroscope() );
-			trace( generateHoroscope() );
-			trace( generateHoroscope() );
-			trace( generateHoroscope() );
 			trace( generateHoroscope() );
 
 		}
